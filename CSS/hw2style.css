@@ -1,0 +1,90 @@
+.img {
+    width: 90%;
+    height: auto;
+    border-radius: 35%;
+    border: rgb(33, 193, 196) dotted 4px;
+
+}
+
+.btn-primary:hover {
+    color: rgb(240, 102, 125);
+    background-color:rgb(161, 240, 240);
+    border: solid  rgb(240, 102, 125);
+}
+.btn-lg:hover {
+    background-color:rgb(181, 220, 223);
+}
+
+a.btn {
+    border:none;
+    background-color:rgb(223, 189, 195);
+}
+a.btn:hover {
+    background-color:rgb(163, 218, 218);
+}
+h1.display-3 {
+    font-weight:bold;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(189, 214, 223);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif 
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:20px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: rgb(223, 189, 195);
+}
+
+.containersmall {
+    width:90%;
+    background-color:rgb(210, 213, 214);
+    justify-content:space-between;
+    
+}
+div.h2 {
+    Color:rgb(255, 255, 255);
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size:10px;
+    padding:10px;
+}
+
+icons {
+    width:20%;
+    height:auto;
+    float: left;
+}
+
+div.h5 {
+    padding:5px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar-brand {
+    font-size:12px;
+    text-align:center;
+}
+
+span.navbar-brand {
+    align-content: center;
+}
+.p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
